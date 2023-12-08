@@ -42,8 +42,8 @@
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/css.png" alt="CSS"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/733e0e3995b30f9a537edd3598c225d1e98162a4/images/icon/tailwind.svg" alt="Tailwind"/></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/css.png" alt="CSS"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/733e0e3995b30f9a537edd3598c225d1e98162a4/images/icon/tailwind.svg" alt="Tailwind"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/mui.png" alt="Material Ui"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/js.png" alt="JavaScript"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/react.png" alt="React"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/03dcd9ef81e1232c1e6ed9eed70445ea66981473/images/icon/mongoDb.svg" alt="MongoDb"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/mongoose.png" alt="Mongoose"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/ex.png" alt="Express"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/nodejs.png" alt="Mongoose"/></code>
 
 ---
 
