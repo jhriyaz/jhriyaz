@@ -1,5 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ### Hi there 👋
 <p align="left"> 
  I'm Md Jahid Hasan, and my current focus is on exploring Next.js. Prior to this, I've gained proficiency in React, Node.js, and Mongoose. Next.js, being a powerful framework that complements React, fascinates me as it allows the creation of fast, SEO-friendly, and server-rendered React applications. I'm excited about this journey and eager to learn more to enhance my skills in web development.
