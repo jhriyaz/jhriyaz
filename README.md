@@ -42,7 +42,7 @@
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/css.png" alt="CSS"/></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/main/images/icon/css.png" alt="CSS"/></code><code><img height="32" src="https://raw.githubusercontent.com/jhriyaz/jhriyaz/733e0e3995b30f9a537edd3598c225d1e98162a4/images/icon/tailwind.svg" alt="Tailwind"/></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 
 ---
