@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Md Jahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhriyaz&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhriyaz&layout=donut&show_icons=true&bg_color=404&text_color=900000)](https://github.com/jhriyaz)
+
+
+
 <!--
 **jhriyaz/jhriyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-s
+
