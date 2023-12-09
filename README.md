@@ -74,25 +74,34 @@
 - Payment Integration with Stripe
 - Implement authentication and authorization for JWT token for different roles like admin and user
 
-Links : [Live Site](https://www.example.com) || [Github-Client](https://www.example.com)  || [ Github-BackEnd ](https://www.example.com) 
+Links : [Live Site](https://pet-angel-react.web.app) || [Github-Client](https://github.com/jhriyaz/pet-angel-client)  || [ Github-BackEnd ](https://github.com/jhriyaz/pet-angel-backend) 
 Technology : React || Mongoose || Node || Material UI || Firebase
-Book Borrowing Site 
-Completion time : 4 Days
 
-User Authentication System with email and social accounts
-Implement authentication and authorization for JWT token for different roles like liberian and user
-Real Time Stock Update on borrowing books
-Book  Boulevard
-Car Show Room site
-Completion time : 3 Days
+## Book  Boulevard  ![Book  Boulevard](https://raw.githubusercontent.com/jhriyaz/BookBoulevard/main/src/assets/images/logo.png) 
 
-User Authentication System with email and social accounts
-Dynamic Slider based on Car brand
-Dark mode toggle
-CAR-COM
-Links : Live Site || Github-Client || Github-BackEnd
+### Book Borrowing Site 
+### Completion time : 4 Days
+
+- User Authentication System with email and social accounts
+- Implement authentication and authorization for JWT token for different roles like liberian and user
+- Real Time Stock Update on borrowing books
+
+Links : [Live Site](https://bookboulevard-a7548.firebaseapp.com/) || [Github-Client](https://github.com/jhriyaz/BookBoulevard)  || [ Github-BackEnd ](https://github.com/jhriyaz/BookBoulevard-backend) 
 Technology : React || MongoDB || Node || TailWind || Firebase
-Links : Live Site || Github-Client || Github-BackEnd
+
+
+
+
+## CAR-COM  ![CAR-COM](https://raw.githubusercontent.com/jhriyaz/CAR-COM/main/public/images/logo-w.png) 
+
+### Car Show Room site
+### Completion time : 3 Days
+
+- User Authentication System with email and social accounts
+- Dynamic Slider based on Car brand
+- Dark mode toggle
+
+Links : [Live Site](https://car-com.web.app/) || [Github-Client](https://github.com/jhriyaz/CAR-COM)  || [ Github-BackEnd ](https://github.com/jhriyaz/car-com-backend) 
 Technology : React || MongoDB || Node || TailWind || Firebase
 
 
