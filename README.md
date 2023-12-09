@@ -41,7 +41,7 @@
 ## 🐍 Github Contributions
 
 
-[![](https://raw.githubusercontent.com/jhriyaz/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)](#)
+[![](https://raw.githubusercontent.com/jhriyaz/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg&theme=material-palenight)](#)
 
 
 <p   align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=jhriyaz&theme=material-palenight" alt="jhriyaz" /></p>
