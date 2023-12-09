@@ -26,8 +26,6 @@
 
 ---
 
-## 🐍 Github Contributions
-[![](https://raw.githubusercontent.com/jhriyaz/YOUR-REPO-NAME/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/jhriyaz/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz" alt="jhriyaz" /></a> </p>
@@ -38,6 +36,12 @@
 
 
 [![Md Jahid Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhriyaz&theme=material-palenight)](#)
+
+
+## 🐍 Github Contributions
+
+
+[![](https://raw.githubusercontent.com/jhriyaz/YOUR-REPO-NAME/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/jhriyaz/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
 <p   align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=jhriyaz&theme=material-palenight" alt="jhriyaz" /></p>
