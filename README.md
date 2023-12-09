@@ -27,7 +27,7 @@
 ---
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz" alt="jhriyaz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz&theme=material-palenight" alt="jhriyaz" /></a> </p>
 
 
 ---
