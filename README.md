@@ -65,7 +65,7 @@
 
 # Projects
 
-## Pet Angel  ![PET aNGEL]([image.jpg](https://raw.githubusercontent.com/jhriyaz/pet-angel-client/main/src/assets/images/favicon.png)) 
+## Pet Angel  ![PET aNGEL]([image.jpg]( https://raw.githubusercontent.com/jhriyaz/pet-angel-client/main/src/assets/images/favicon.png )
 
 ### Pet Adoption & donation Site
 ### Completion time : 8 Days
