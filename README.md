@@ -61,6 +61,42 @@
 
 
 
+
+
+Projects
+Pet Adoption & donation Site
+Completion time : 8 Days
+
+Multiple filtered  implementation by category ,added date, and Search feature
+Payment Integration with Stripe
+Implement authentication and authorization for JWT token for different roles like admin and user
+Pet Angel
+Links : Live Site || Github-Client || Github-BackEnd
+Technology : React || Mongoose || Node || Material UI || Firebase
+Book Borrowing Site 
+Completion time : 4 Days
+
+User Authentication System with email and social accounts
+Implement authentication and authorization for JWT token for different roles like liberian and user
+Real Time Stock Update on borrowing books
+Book  Boulevard
+Car Show Room site
+Completion time : 3 Days
+
+User Authentication System with email and social accounts
+Dynamic Slider based on Car brand
+Dark mode toggle
+CAR-COM
+Links : Live Site || Github-Client || Github-BackEnd
+Technology : React || MongoDB || Node || TailWind || Firebase
+Links : Live Site || Github-Client || Github-BackEnd
+Technology : React || MongoDB || Node || TailWind || Firebase
+
+
+
+
+
+
 ---
 
 <h3 align="left">Connect with me:</h3>
