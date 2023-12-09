@@ -35,7 +35,7 @@
 
 
 
-[![Md Jahid Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhriyaz&theme=material-palenight)](#)
+[![Md Jahid Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhriyaz)](#)
 
 
 ## 🐍 Github Contributions
