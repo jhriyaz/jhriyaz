@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz" alt="jhriyaz" /></a> </p>
 
-
+[![Md Jahid Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhriyaz&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](#)
 
 
 
