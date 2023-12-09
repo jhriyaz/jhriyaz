@@ -16,11 +16,11 @@
 </p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhriyaz&background=45%2CFF0202F5%2C9C07EB&stroke=450AEB&ring=D8CDEB&dates=D8CDEB&currStreakLabel=D8CDEB&sideNums=D8CDEB&fire=31422D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhriyaz&background=45%2CFF0202F5%2C9C07EB&stroke=450AEB&ring=D8CDEB&dates=D8CDEB&currStreakLabel=D8CDEB&sideNums=D8CDEB&fire=31422D)](https://github.com/jhriyaz)
 
 
 
-<p style="display:flex">
+<p style="display:inline-flex">
 
 ![Md Jahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhriyaz&,prs&show_icons=true&bg_color=404&text_color=990)
 
