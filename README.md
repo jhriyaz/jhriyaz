@@ -75,6 +75,8 @@
 - Implement authentication and authorization for JWT token for different roles like admin and user
 
 Links : [Live Site](https://pet-angel-react.web.app) || [Github-Client](https://github.com/jhriyaz/pet-angel-client)  || [ Github-BackEnd ](https://github.com/jhriyaz/pet-angel-backend) 
+
+
 Technology : React || Mongoose || Node || Material UI || Firebase
 
 ## Book  Boulevard  ![Book  Boulevard](https://raw.githubusercontent.com/jhriyaz/BookBoulevard/main/src/assets/images/logo.png) 
@@ -87,6 +89,8 @@ Technology : React || Mongoose || Node || Material UI || Firebase
 - Real Time Stock Update on borrowing books
 
 Links : [Live Site](https://bookboulevard-a7548.firebaseapp.com/) || [Github-Client](https://github.com/jhriyaz/BookBoulevard)  || [ Github-BackEnd ](https://github.com/jhriyaz/BookBoulevard-backend) 
+
+
 Technology : React || MongoDB || Node || TailWind || Firebase
 
 
@@ -102,6 +106,8 @@ Technology : React || MongoDB || Node || TailWind || Firebase
 - Dark mode toggle
 
 Links : [Live Site](https://car-com.web.app/) || [Github-Client](https://github.com/jhriyaz/CAR-COM)  || [ Github-BackEnd ](https://github.com/jhriyaz/car-com-backend) 
+
+
 Technology : React || MongoDB || Node || TailWind || Firebase
 
 
