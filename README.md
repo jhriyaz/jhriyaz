@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://twitter.com/jhriyaz" target="blank"><img src="https://img.shields.io/twitter/follow/jhriyaz?logo=twitter&style=for-the-badge" alt="jhriyaz" /></a> </p>
 
-- 🔭 I’m currently working on [AL-KHIDMA-TRUSTS](AL-KHIDMA-TRUSTS)
+
 
 - 🌱 I’m currently learning **NEXTJS**
 
