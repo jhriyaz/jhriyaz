@@ -38,7 +38,10 @@
 
 <p><img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jhriyaz&" alt="jhriyaz" /></p>
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=jhriyaz&show_icons=true&locale=en" alt="jhriyaz" /></p>
+
+
+
+<p align="center" > &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=jhriyaz&show_icons=true&locale=en" alt="jhriyaz" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
