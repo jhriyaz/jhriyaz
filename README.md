@@ -27,8 +27,7 @@
 ---
 
 
-![snake animation](https://github.com/jhriyaz/jhriyaz/blob/output/github-contribution-grid-snake2.svg)
-
+![](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/output/github-contribution-grid-snake.svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz" alt="jhriyaz" /></a> </p>
