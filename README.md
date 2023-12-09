@@ -12,16 +12,13 @@
   <a href="mailto:jhriyaz@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a><a href="https://www.linkedin.com/in/jhriyaz/"  title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a><a href="https://wa.me/+8801845336521" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a> 
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a> <p> <a href="https://twitter.com/jhriyaz" target="blank"><img src="https://img.shields.io/twitter/follow/jhriyaz?logo=twitter&style=for-the-badge" alt="jhriyaz" /></a> </p>
+
 </p>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhriyaz&label=Profile%20views&color=0e75b6&style=flat" alt="jhriyaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz" alt="jhriyaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jhriyaz" target="blank"><img src="https://img.shields.io/twitter/follow/jhriyaz?logo=twitter&style=for-the-badge" alt="jhriyaz" /></a> </p>
 
 
 
