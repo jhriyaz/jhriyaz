@@ -38,12 +38,6 @@
 [![Md Jahid Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhriyaz&theme=material-palenight)](#)
 
 
-## 🐍 Github Contributions
-
-
-[![](https://raw.githubusercontent.com/jhriyaz/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)](#)
-
-
 <p   align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=jhriyaz&theme=material-palenight" alt="jhriyaz" /></p>
 
 
@@ -51,6 +45,12 @@
 
 <p align="center" > &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=jhriyaz&show_icons=true&locale=en&theme=material-palenight" alt="jhriyaz" /></p>
 <p  align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jhriyaz&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="jhriyaz" /></p>
+
+
+## 🐍 Github Contributions
+
+
+[![](https://raw.githubusercontent.com/jhriyaz/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)](#)
 
 
 ---
