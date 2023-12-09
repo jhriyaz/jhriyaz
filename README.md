@@ -36,7 +36,7 @@
 
 <p  align="left"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jhriyaz&show_icons=true&locale=en&layout=compact" alt="jhriyaz" /></p>
 
-<p   align="right" ><imgsrc="https://github-readme-streak-stats.herokuapp.com/?user=jhriyaz&" alt="jhriyaz" /></p>
+<p   align="right" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=jhriyaz&" alt="jhriyaz" /></p>
 
 
 
