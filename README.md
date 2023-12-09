@@ -21,14 +21,14 @@
 
 - 📫 How to reach me **jhriyaz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lsxRQE93qPDrLS3qBlKg877wynNZV3MY/view?usp=sharing](https://drive.google.com/file/d/1lsxRQE93qPDrLS3qBlKg877wynNZV3MY/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1lsxRQE93qPDrLS3qBlKg877wynNZV3MY/view?usp=sharing)
 
 
 ---
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz&theme=onedark" alt="jhriyaz" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jhriyaz&theme=onedark" alt="jhriyaz" /></a> </p>
 
 
 ---
