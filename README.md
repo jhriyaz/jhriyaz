@@ -65,17 +65,16 @@
 
 # Projects
 
-Pet Angel
+## Pet Angel
 
 ### Pet Adoption & donation Site
-
-Completion time : 8 Days
+### Completion time : 8 Days
 
 - Multiple filtered  implementation by category ,added date, and Search feature
 - Payment Integration with Stripe
 - Implement authentication and authorization for JWT token for different roles like admin and user
 
-Links : Live Site || Github-Client || Github-BackEnd
+Links : [Live Site](https://www.example.com) || [Github-Client](https://www.example.com)  || [ Github-BackEnd ](https://www.example.com) 
 Technology : React || Mongoose || Node || Material UI || Firebase
 Book Borrowing Site 
 Completion time : 4 Days
