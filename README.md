@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **NEXTJS**
 
-- 📫 How to reach me [Email me](**jhriyaz@gmail.com**)
+- 📫 How to reach me [Email me]**jhriyaz@gmail.com**
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1lsxRQE93qPDrLS3qBlKg877wynNZV3MY/view?usp=sharing)
 
