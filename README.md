@@ -19,7 +19,8 @@
 
 - 🌱 I’m currently learning **NEXTJS**
 
-- 📫 How to reach me [Email me](**jhriyaz@gmail.com**)
+- 📫 How to reach me ?  <a href="mailto:jhriyaz@gmail.com" title="Gmail">
+Email me here</a>
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1lsxRQE93qPDrLS3qBlKg877wynNZV3MY/view?usp=sharing)
 
